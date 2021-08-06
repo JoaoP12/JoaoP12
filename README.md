@@ -1,8 +1,8 @@
 ### Bem vindo ao meu perfil :))
 
-- 🔭 A procura da minha primeira oportunidade de trabalho como desenvolvedor
-- 🌱 Estudando Node.js e React
-- 🤔 Tentando aprender algoritmos e estruturas de dados
+- 🔭 Lifelong learner
+- 🌱 Studying Node.js and React
+- 🤔 Trying to learn algorithms and data structures
 
  <div>
   <a href="https://linkedin.com/JoaoP12">
